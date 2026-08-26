@@ -1,0 +1,58 @@
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.csproj.AssemblyReference.cache
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.DoctorForm1.resources
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.DoctorForm2.resources
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.Login.resources
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.Patient.resources
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.Signup.resources
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\bin\Debug\Hospital.exe.config
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\bin\Debug\Hospital.exe
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\bin\Debug\Hospital.pdb
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.exe
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.pdb
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.exe.config
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.Admin.resources
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.adminappointment.resources
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.adminbloodbank.resources
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.admindoctor.resources
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.adminpetient.resources
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.admin_nurse.resources
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.Admit.resources
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.Ambulance.resources
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.AppointPatient.resources
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.BloodBank.resources
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.BloodPay.resources
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.DoctorForm.resources
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.Edit.resources
+D:\AIUB\S7\OOP2\Project\Hospital\Hospital\obj\Debug\Hospital.Nurse.resources
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.csproj.AssemblyReference.cache
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.exe.config
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.Admin.resources
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.adminappointment.resources
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.adminbloodbank.resources
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.admindoctor.resources
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.adminpetient.resources
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.admin_nurse.resources
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.Admit.resources
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.Ambulance.resources
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.AppointPatient.resources
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.BloodBank.resources
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.BloodPay.resources
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.DoctorForm.resources
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.DoctorForm1.resources
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.DoctorForm2.resources
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.Edit.resources
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.Login.resources
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.Nurse.resources
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.Patient.resources
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.Signup.resources
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\IT W\Downloads\Hospital (1)\Hospital\Hospital\obj\Debug\Hospital.pdb
